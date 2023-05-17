@@ -191,9 +191,8 @@ The database filename is passed as argument of the server.js BUT, for testing pu
 In terminal 1:
 
 bob@dylan:~$ npm run dev
-...
+..
 In terminal 2:
-
 
 
 
